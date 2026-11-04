@@ -36,7 +36,7 @@ The assessment was conducted using authorized, intentionally vulnerable labs fro
 ### Report
 The complete assessment, including methodology, findings, evidence screenshots, potential impacts, and recommended mitigations, is available here:
 
-**[Security Fundamentals Assessment Report](Security_Fundamentals_Assessment_Report.pdf)**
+**[Security Fundamentals Assessment Report](Security_Assessment_Report.pdf)**
 
 ### Disclaimer
 All practical exercises were performed exclusively in PortSwigger Web Security Academy's authorized training environment. No real-world websites or systems were tested.
